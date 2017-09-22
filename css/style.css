@@ -1,0 +1,11 @@
+html { 
+	margin:0; 
+	height: 100%;
+	font-family: tahoma;
+	background: url("../images/BG.jpg");
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
