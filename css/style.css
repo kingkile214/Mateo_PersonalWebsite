@@ -8,18 +8,5 @@ html{
 	-o-background-size: cover;
 	background-size: cover; 
 	style="overflow: hidden;
-	height: 100%;"
 
 }
-
-
-body{
-	padding: 1%;
-}
-
-header{
-	height: 20%;
-	width: 100%;
-	font-size: 130%;
-}
-
