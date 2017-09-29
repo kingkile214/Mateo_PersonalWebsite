@@ -2,18 +2,30 @@
 font-family: "Amethyst";
 src: url("../fonts/Amethyst.ttf");
 }
-
 @font-face {
 font-family: "Batman Forever";
 src: url("../fonts/batmfa__.ttf");
 }
-
 @font-face {
 font-family: "Batman Forever Outline";
 src: url("../fonts/batmfo__.ttf");
 }
-
-
+@font-face {
+font-family: "Batman Forever Outline";
+src: url("../fonts/batmfo__.ttf");
+}
+@font-face {
+font-family: "MGS2";
+src: url("../fonts/MGS2.ttf");
+}
+@font-face {
+font-family: "Tactical Espionage Action";
+src: url("../fonts/Tactical Espionage Action.ttf");
+}
+@font-face {
+font-family: "Viking";
+src: url("../fonts/VIKING-N.ttf");
+}
 
 html{ 
 	margin:0; 
