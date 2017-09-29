@@ -1,3 +1,20 @@
+@font-face {
+font-family: "Amethyst";
+src: url("../fonts/Amethyst.ttf");
+}
+
+@font-face {
+font-family: "Batman Forever";
+src: url("../fonts/batmfa__.ttf");
+}
+
+@font-face {
+font-family: "Batman Forever Outline";
+src: url("../fonts/batmfo__.ttf");
+}
+
+
+
 html{ 
 	margin:0; 
 	height: 100%;
