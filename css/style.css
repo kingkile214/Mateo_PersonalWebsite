@@ -47,13 +47,18 @@ html{
 
 #name{
 	font-family: Batman Forever;
-	font-size: 80px;
+	font-size: 5vw;
 	color: #ff3838;
 }
 
 #awe{
 	font-family: Batman Forever Outline;
-	font-size: 50px;
+	font-size: 3vw;
 	color: white;
 }
+
+#introimg{
+	max-width: 100%;
+	height: auto;
+	border: 0;
 }
