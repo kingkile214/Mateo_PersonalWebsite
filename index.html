@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>About Me</title>
+	<title>Grimm</title>
 	<meta charset="UTF-8">
 	<meta name="description" content="Applications Systems Development Minor Project">
 	<meta name="author" content="Grimm">
@@ -50,6 +50,16 @@
 		});
 	});
 	</script>
+	<script type="text/javascript">
+		$('.arrowDown').click(function(){
+			$.fn.fullpage.moveSectionDown();
+		});
+	</script>
+	<script type="text/javascript">
+		$('.arrowUp').click(function(){
+			$.fn.fullpage.moveSectionUp();
+		});
+	</script>
 </head>
 
 <div id="fullpage" class="fullpage-wrapper">
@@ -60,6 +70,7 @@
 			<img id="introimg" src="images/wolf.png"> </img>
 		</div>
 	</div>
+	<div class="arrowDown"></div>
 	<div class="section" id="section2">
 		<div class="slide"><h3>Section 2 Slide 1</h3></div>
 		<div class="slide"><h3>Section 2 Slide 2</h3></div>
