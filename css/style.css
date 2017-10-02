@@ -48,7 +48,7 @@ html{
 		z-index:9;
 		text-align:center;
 		color: #f2f2f2;
-		padding: 20px 0 0 0;
+		padding: 15px 0 0 0;
 		top:0px;
 	}
 
@@ -88,4 +88,27 @@ html{
 	float: right;
 	margin-right: 1%;
 	background-color: #ff3838;
+}
+
+a{
+	text-decoration: none;
+}
+
+ul{
+	list-style-type: none;
+}
+
+li{
+	float: left;
+	height: 5%;
+	width: 8%;
+	margin-left: 15px;
+	padding: 5px;
+	border: 1px solid white;
+	border-radius: 10px;
+}
+span.mItem{
+	font-family: Batman Forever Outline;
+	font-size: 1vw;
+	color: white;
 }
