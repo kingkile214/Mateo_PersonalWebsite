@@ -40,6 +40,18 @@ html{
 
 }
 
+#header{
+		position:fixed;
+		height: 50px;
+		display:block;
+		width: 100%;
+		z-index:9;
+		text-align:center;
+		color: #f2f2f2;
+		padding: 20px 0 0 0;
+		top:0px;
+	}
+
 .section{
 	text-align:center;
 }
