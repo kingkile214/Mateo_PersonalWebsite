@@ -61,3 +61,19 @@ html{
 	height: auto;
 	border: 0;
 }
+
+.leftCont{
+	width: 47.9%;
+	height: 90%;
+	float: left;
+	margin-left: 1%;
+	background-color: white;
+}
+
+.rightCont{
+	width: 47.9%;
+	height: 90%;
+	float: right;
+	margin-right: 1%;
+	background-color: #ff3838;
+}
