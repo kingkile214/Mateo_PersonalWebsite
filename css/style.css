@@ -62,22 +62,6 @@ html{
 	border: 0;
 }
 
-.leftCont{
-	width: 48.9%;
-	height: 88%;
-	float: left;
-	margin-left: 1%;
-	background-color: #6544fc;
-}
-
-.rightCont{
-	width: 48.9%;
-	height: 88%;
-	float: right;
-	margin-right: 1%;
-	background-color: #ff3838;
-}
-
 a{
 	text-decoration: none;
 }
@@ -105,4 +89,23 @@ span.mItem{
 	font-family: Batman Forever Outline;
 	font-size: 1vw;
 	color: white;
+}
+
+.aboutCont{
+	width: 100%;
+	height: 88%;
+	float: left;
+	background-color: #6544fc;
+	padding: 40px;
+}
+
+span.aboutTitle{
+	font-family: Batman Forever;
+	font-size: 2vw;
+	float: left;
+}
+
+#aboutImg{
+	margin-top: 120px;
+	margin-left: 65%;  	
 }
