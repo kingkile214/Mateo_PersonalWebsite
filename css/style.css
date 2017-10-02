@@ -48,8 +48,8 @@ html{
 		z-index:9;
 		text-align:center;
 		color: #f2f2f2;
-		padding: 15px 0 0 0;
 		top:0px;
+		margin-left: -40px;
 	}
 
 .section{
@@ -75,16 +75,16 @@ html{
 }
 
 .leftCont{
-	width: 47.9%;
-	height: 90%;
+	width: 48.9%;
+	height: 88%;
 	float: left;
 	margin-left: 1%;
-	background-color: white;
+	background-color: #6544fc;
 }
 
 .rightCont{
-	width: 47.9%;
-	height: 90%;
+	width: 48.9%;
+	height: 88%;
 	float: right;
 	margin-right: 1%;
 	background-color: #ff3838;
@@ -107,6 +107,12 @@ li{
 	border: 1px solid white;
 	border-radius: 10px;
 }
+
+li:hover{
+	border-color: #6544fc;
+	background-color: #ff3838;
+}
+
 span.mItem{
 	font-family: Batman Forever Outline;
 	font-size: 1vw;
