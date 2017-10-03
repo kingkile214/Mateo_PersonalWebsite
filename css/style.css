@@ -14,6 +14,14 @@ src: url("../fonts/batmfo__.ttf");
 font-family: "Batman Forever Outline";
 src: url("../fonts/batmfo__.ttf");
 }
+@font-face {
+font-family: "Square";
+src: url("../fonts/Square.ttf");
+}
+@font-face {
+font-family: "Square Outline";
+src: url("../fonts/Squareo.ttf");
+}
 
 html{ 
 	margin:0; 
@@ -97,11 +105,21 @@ span.aboutTitle{
 	font-size: 250%;
 }
 
-span.head{
+#quote{
 	font-family: Amethyst;
-	font size: 140%;
+	font-size: 110%;
 }
 
+span.head{
+	font-family: Square Outline;
+	font-size: 230%;
+}
+
+span.body{
+	font-family: Square;
+	font-size: 130%;
+	 line-height: 15`	0%
+}
 .aboutCont{
 	width: 100%;
 	height: 88%;
@@ -109,13 +127,14 @@ span.head{
 	padding: 40px;
 }	
 #aboutImg{
-	margin-top: -15%;
+	margin-top: -15.3%;
 	float: left;
 }
 
 .info{
-	height: 40%;
-	width: 50%;
+	height: 25%;
+	height: 25%;
+	width: 27%;
 	border: 1px solid black;
 	padding: 1%;
 	text-align: left;
