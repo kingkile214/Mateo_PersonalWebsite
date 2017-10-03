@@ -135,7 +135,15 @@ span.body{
 
 div.info{
 	height: 25%;
-	height: 25%;
+	width: 27%;
+	padding: 1%;
+	text-align: left;
+	margin-top: 2%;
+	margin-left: 20%;
+}
+
+div.facts{
+	height: 45%;
 	width: 27%;
 	padding: 1%;
 	text-align: left;
@@ -144,13 +152,12 @@ div.info{
 
 }
 
-div.facts{
-	height: 25%;
-	height: 45%;
-	width: 27%;
+.skills{
+	height: 50%;
+	width: 40%;
 	padding: 1%;
-	text-align: left;
-	margin-top: 2%;
-	margin-left: 20%;
-
+	position: absolute;
+	right: 5%;
+	top: 20.5%;
+	border: 1px solid black;
 }
