@@ -117,7 +117,7 @@ span.head{
 
 span.body{
 	font-family: Square;
-	font-size: 130%;
+	font-size: 110%;
 	 line-height: 150%
 }
 .aboutCont{
@@ -137,7 +137,6 @@ div.info{
 	height: 25%;
 	height: 25%;
 	width: 27%;
-	border: 1px solid black;
 	padding: 1%;
 	text-align: left;
 	margin-top: 2%;
@@ -145,11 +144,10 @@ div.info{
 
 }
 
-div.educ{
+div.facts{
 	height: 25%;
-	height: 40%;
+	height: 45%;
 	width: 27%;
-	border: 1px solid black;
 	padding: 1%;
 	text-align: left;
 	margin-top: 2%;
