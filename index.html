@@ -38,7 +38,17 @@
 			afterLoad: function(anchorLink, index){},
 		});
 	});
-	</script>
+</script>
+<script type="text/javascript">
+	jQuery(document).ready(function(){
+	jQuery('.skillbar').each(function(){
+		jQuery(this).find('.skillbar-bar').animate({
+			width:jQuery(this).attr('data-percent')
+		},6000);
+	});
+});
+</script>
+	
 </head>
 
 <div id="header">
@@ -80,8 +90,10 @@
 				* Video Game Fanatic <br>
 				* Karate Orange Belt <br>
 				* I have just been ASSpired by my good friend J.J. <br>
-				
 				</span>
+			</div>
+			<div class="skills"> 
+				
 			</div>
 			<img id="aboutImg" src="images/pic1.png"></img>
 		</div>
