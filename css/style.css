@@ -126,10 +126,18 @@ span.body{
 	background-color: #6544fc;
 	padding: 40px;
 }	
+
+.workCont{
+	width: 100%;
+	height: 88%;
+	background-color: #6544fc;
+	padding: 40px;
+}
+
 #aboutImg{
 	position:absolute;
 	left: 0px;
-	top: 212px;
+	top: 257px;
 	z-index:0;
 }
 
