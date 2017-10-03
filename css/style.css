@@ -210,3 +210,13 @@ width:110px;
 	color:#ffffff;
 	color:rgba(0, 0, 0, 0.4);
 }
+
+.galCont{
+	height: 89%;
+	width: 100%;
+	position: center;
+	position: fixed;
+	margin-top: 3%;
+	vertical-align: middle;
+	horizontal-align: middle;
+}
