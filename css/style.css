@@ -102,10 +102,23 @@ span.mItem{
 span.aboutTitle{
 	font-family: Batman Forever;
 	font-size: 2vw;
-	float: left;
 }
 
 #aboutImg{
-	margin-top: 80px;
-	margin-left: 70%;  	
+	margin-top: -230px;
+	margin-left: 27%;
+	position: absolute;
+}
+
+span.body{
+	white-space: nowrap;
+}
+
+.info{
+	height: 40%;
+	width: 50%;
+	border: 1px solid black;
+	padding: 1%;
+	text-align: left;
+	margin-top: 2%;
 }
