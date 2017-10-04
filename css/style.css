@@ -227,10 +227,19 @@ width:110px;
 	horizontal-align: middle;
 }
 
-.workImgCont{
-	height: 80%;
-	width: 50%;
-	border: 1px solid black;
+.workImgCont1{
+	height: 60%;
+	width: 40%;
+	float: left;
+	margin-top: 3%;
+	margin-left: 6%;
+}
+
+.workImgCont2{
+	height: 60%;
+	width: 40%;
 	margin: auto;
-	margin-top: 1%;
+	float: right;
+	margin-right: 11%;
+	margin-top: 3%;
 }
