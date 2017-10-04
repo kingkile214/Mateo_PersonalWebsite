@@ -221,9 +221,16 @@ width:110px;
 .galCont{
 	height: 89%;
 	width: 100%;
-	position: center;
 	position: fixed;
 	margin-top: 3%;
 	vertical-align: middle;
 	horizontal-align: middle;
+}
+
+.workImgCont{
+	height: 80%;
+	width: 50%;
+	border: 1px solid black;
+	margin: auto;
+	margin-top: 1%;
 }
